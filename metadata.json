@@ -1,0 +1,5 @@
+{
+  "name": "VSEPR Theory Quiz",
+  "description": "An interactive AI-powered quiz to test your knowledge of VSEPR theory. Answer questions about molecular geometry, bond angles, and polarity for molecules with 2 to 6 electron pairs, with AI-generated structures and feedback.",
+  "requestFramePermissions": []
+}
